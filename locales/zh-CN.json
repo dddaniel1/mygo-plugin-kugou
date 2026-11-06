@@ -1,0 +1,19 @@
+{
+  "KuGou Music": "酷狗音乐",
+  "Audio Quality Cap": "音质上限",
+  "Highest quality to request: 128, 320 or flac. Above 128 usually needs a signed-in KuGou account.": "请求的最高音质：128、320 或 flac。128 以上通常需要登录酷狗账号。",
+  "Charts": "排行榜",
+  "Playlists": "歌单",
+  "Top Charts": "排行榜",
+  "Recommended Playlists": "推荐歌单",
+  "KuGou Charts": "酷狗排行榜",
+  "No such page": "没有这个页面",
+  "Could not start the sign-in, try again": "无法开始登录，请重试",
+  "Open the KuGou Music app and scan this code to sign in": "打开酷狗音乐 App 扫描二维码登录",
+  "Scanned — confirm in the KuGou app": "已扫码，请在酷狗 App 中确认",
+  "The QR code expired, try signing in again": "二维码已过期，请重新登录",
+  "Timed out waiting for the scan, try again": "等待扫码超时，请重试",
+  "Sign-in succeeded but no ticket came back, try again": "登录成功但未返回票据，请重试",
+  "Sign in to your KuGou account to play this song": "登录酷狗账号后才能播放这首歌",
+  "This song needs a KuGou VIP": "这首歌需要酷狗 VIP 才能播放"
+}
